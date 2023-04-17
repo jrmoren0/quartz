@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "97a1f95efca5196a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BootCamp/DrawingOOP.png.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Module2 Lesson1.md",
+                "file": "BootCamp/DrawingOOP.png.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Module2 Lesson1.md",
+                "file": "BootCamp/DrawingOOP.png.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Module2 Lesson1.md"
+                "file": "BootCamp/DrawingOOP.png.md"
               }
             }
           }
@@ -147,16 +160,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7a89846868de375a",
+  "active": "861f0dfab7e3dfa3",
   "lastOpenFiles": [
-    "image/DrawingOOP.png",
+    "Module2 Lesson1.md",
+    "BootCamp/DrawingOOP.png.md",
     "DrawingOOP.png.md",
+    "BootCamp/DrawingOOP.png.md",
+    "image/DrawingOOP.png",
     "image/Static Modifiers.md",
     "Module2 Lesson2.md",
     "Untitled 1",
     "image",
     "Bootcamp Notes.md",
-    "Module2 Lesson1.md",
     "Lesson 2.1.md",
     "Lesson 1.md",
     "Module2 Lesson3.md",
@@ -182,7 +197,6 @@
     "Excalidraw/Module2Lesson1.md",
     "Module 2 Lesson 1.md",
     "Module 2 Lesson 1 Prep.md",
-    "2023-04-09.md",
     "Excalidraw/Scripts/Downloaded/Create new markdown file and embed into active drawing.svg",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
