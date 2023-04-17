@@ -78,5 +78,5 @@ The main reason for object-oriented programming is to reuse and organize code.
 	*e.g. a heart is "part of" a human*
 	*e.g. a human "has a" heart* (Player and Health)
 
-![[Excalidraw/Pasted image 20230414142550.png]]
+![[Excalidraw/images/Pasted image 20230414142550.png]]
 
