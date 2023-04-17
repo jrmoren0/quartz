@@ -4,5 +4,5 @@ enableToc: false
 ---
 
 
- [Notes]([https://discord.gg/cRFFHYye7t](https://jrmoren0.github.io/quartz/BootCamp/Bootcamp-Notes/)
+ [Notes](https://jrmoren0.github.io/quartz/BootCamp/Bootcamp-Notes/)
 
