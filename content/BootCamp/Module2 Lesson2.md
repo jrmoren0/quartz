@@ -1,4 +1,10 @@
+```yaml
+---
+title: "lesson2"
+tags:
 
+---
+```
 
 # Recap
 [[Module2 Lesson1]]

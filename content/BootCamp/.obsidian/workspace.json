@@ -11,51 +11,9 @@
             "id": "fc02bd7e7fac561e",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Static Modifiers.md"
-              }
-            }
-          },
-          {
-            "id": "c1d9cbd884c6bb20",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2023-04-13 18.49.51.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "d7e9c3b83a532406",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing OOP.md"
-              }
-            }
-          },
-          {
-            "id": "3b63d1512437b058",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
                 "file": "Module2 Lesson2.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fd9d8438711e5644",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Module2 Lesson1.md",
                 "mode": "source",
                 "source": false
               }
@@ -127,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Static Modifiers.md",
+                "file": "Module2 Lesson2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Static Modifiers.md",
+                "file": "Module2 Lesson2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Static Modifiers.md"
+                "file": "Module2 Lesson2.md"
               }
             }
           }
@@ -191,22 +149,28 @@
   },
   "active": "fc02bd7e7fac561e",
   "lastOpenFiles": [
-    "Excalidraw/Pasted image 20230414142550.png",
-    "Excalidraw/Enum Drawing.md",
-    "Excalidraw/Drawing OOP.md",
-    "Excalidraw/Drawing 2023-04-13 18.49.51.excalidraw.md",
-    "Excalidraw/Drawing 2023-04-10 00.48.42.excalidraw.md",
-    "Excalidraw/Scripts/Downloaded/Create new markdown file and embed into active drawing.svg",
-    "Excalidraw/Scripts/Downloaded/Create new markdown file and embed into active drawing.md",
-    "Module2 Lesson2.md",
     "Module2 Lesson1.md",
-    "Excalidraw/Static Modifiers.md",
-    "Untitled 1.md",
+    "Module2 Lesson2.md",
+    "Module2Lesson1 1.md",
+    "Testfolder/pencil.md",
+    "Testfolder",
+    "Excalidraw/Drawing 2023-04-15 21.47.05.excalidraw.md",
+    "Excalidraw/Drawing OOP.md",
+    "Module2Lesson1.md",
+    "Excalidraw/Drawing 2023-04-10 00.48.42.excalidraw.md",
+    "Excalidraw/Enum Drawing.md",
+    "Excalidraw/Drawing_OOP.png.md",
+    "Excalidraw/Drawing.md",
+    "Excalidraw/Drawing OOP.png",
     "Untitled.md",
+    "Excalidraw/Module2Lesson1.md",
+    "Module 2 Lesson 1.md",
     "Module 2 Lesson 1 Prep.md",
     "2023-04-09.md",
     "[.md",
     "Excalidraw/test.md",
+    "Excalidraw/Scripts/Downloaded/Create new markdown file and embed into active drawing.svg",
+    "Excalidraw/Scripts/Downloaded/Create new markdown file and embed into active drawing.md",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
     "Excalidraw/Module 2 Lesson 1 Prep 2023-04-10 01.27.40.excalidraw.md",
