@@ -35,7 +35,7 @@ public static void SubtractEnemy()
 ```c#
 public static class Math
 ```
-![Static Modifiers](BootCamp/image/Static_Modifiers)
+![Static Modifiers](BootCamp/image/Static_Modifiers.png)
 # Inheritance
 [Inheritance](https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/object-oriented/inheritance) allows us to create a new class from an existing class. The new class will "inherit" the fields and methods of the original class.  We can then add functionality and specificity to the new class.
 
