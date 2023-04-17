@@ -1,3 +1,6 @@
+---
+title: "Notes"
+---
 # Module 2
 
 ## [[Module2 Lesson1|Lesson 1]]
