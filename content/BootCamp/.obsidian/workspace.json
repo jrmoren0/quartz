@@ -14,12 +14,25 @@
               "type": "markdown",
               "state": {
                 "file": "Module2 Lesson1.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b06fa0fa8cd01a3e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bootcamp.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Module2 Lesson1.md",
+                "file": "Bootcamp.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Module2 Lesson1.md",
+                "file": "Bootcamp.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Module2 Lesson1.md"
+                "file": "Bootcamp.md"
               }
             }
           }
@@ -147,17 +160,23 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7a89846868de375a",
+  "active": "b06fa0fa8cd01a3e",
   "lastOpenFiles": [
-    "DrawingOOP.png",
     "Module2 Lesson1.md",
+    "Module2 Lesson2.md",
+    "Module2 Lesson3.md",
+    "Bootcamp.md",
+    "Lesson 2.1.md",
+    "Lesson 1.md",
+    "BootCamp/DrawingOOP.png.md",
+    "DrawingOOP.png",
+    "BootCamp",
     "content/Drawing OOP.png.md",
     "Content/Drawing OOP.png.md",
     "Excalidraw/DrawingOOP.md",
     "Excalidraw/Enum Drawing.md",
     "Excalidraw/Static Modifiers.md",
     "Excalidraw/images/Pasted image 20230414142550.png",
-    "Module2 Lesson2.md",
     "Excalidraw/test.md",
     "Excalidraw/images",
     "Content",
@@ -177,12 +196,9 @@
     "2023-04-09.md",
     "[.md",
     "Excalidraw/Scripts/Downloaded/Create new markdown file and embed into active drawing.svg",
-    "Excalidraw/Scripts/Downloaded/Create new markdown file and embed into active drawing.md",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
-    "Excalidraw/Module 2 Lesson 1 Prep 2023-04-10 01.27.40.excalidraw.md",
     "Excalidraw",
-    "Module 2 Prep 1.md",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]

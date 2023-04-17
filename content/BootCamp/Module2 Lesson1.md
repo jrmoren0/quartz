@@ -16,7 +16,6 @@ Modular Software developlment using Classes to construct objects which contain d
  - #### Polymorphism
 	- Ability to implement inherited properties or methods in different ways across multiple abstractions.
 
-
 ![Enable GitHub Pages](/BootCamp/DrawingOOP.png)*Enable GitHub Pages*
 
 # MonoBehaviour
