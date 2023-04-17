@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bootcamp Notes.md",
+                "file": "BootCamp/DrawingOOP.png.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bootcamp Notes.md",
+                "file": "BootCamp/DrawingOOP.png.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bootcamp Notes.md",
+                "file": "BootCamp/DrawingOOP.png.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bootcamp Notes.md"
+                "file": "BootCamp/DrawingOOP.png.md"
               }
             }
           }
@@ -149,21 +149,23 @@
   },
   "active": "7a89846868de375a",
   "lastOpenFiles": [
-    "Module2 Lesson1.md",
+    "Image/Static Modifiers.md",
+    "Module2 Lesson2.md",
+    "Untitled 1",
+    "Image",
     "Bootcamp Notes.md",
+    "Image/DrawingOOP.png",
+    "Module2 Lesson1.md",
     "Lesson 2.1.md",
     "Lesson 1.md",
     "Module2 Lesson3.md",
-    "Module2 Lesson2.md",
     "BootCamp/DrawingOOP.png.md",
-    "DrawingOOP.png",
     "BootCamp",
     "content/Drawing OOP.png.md",
     "Content/Drawing OOP.png.md",
     "Excalidraw/DrawingOOP.md",
     "Excalidraw/Enum Drawing.md",
-    "Excalidraw/Static Modifiers.md",
-    "Excalidraw/images/Pasted image 20230414142550.png",
+    "Image/Pasted image 20230414142550.png",
     "Excalidraw/test.md",
     "Excalidraw/images",
     "Content",
@@ -181,7 +183,6 @@
     "Module 2 Lesson 1.md",
     "Module 2 Lesson 1 Prep.md",
     "2023-04-09.md",
-    "[.md",
     "Excalidraw/Scripts/Downloaded/Create new markdown file and embed into active drawing.svg",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",

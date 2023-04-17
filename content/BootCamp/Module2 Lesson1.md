@@ -1,9 +1,9 @@
 ---
-title: "lesson1"
+title: "Lesson 1"
 ---
 
 # Object Oriented Programming 
-Modular Software developlment using Classes to construct objects which contain data in the form of properties (fields).
+Modular Software development using classes to construct objects which contain data in the form of properties (fields).
 
 
 ## 4 Elements of OOP
@@ -16,7 +16,7 @@ Modular Software developlment using Classes to construct objects which contain d
  - #### Polymorphism
 	- Ability to implement inherited properties or methods in different ways across multiple abstractions.
 
-![Enable GitHub Pages](/BootCamp/DrawingOOP.png)*Enable GitHub Pages*
+![Enable GitHub Pages](/BootCamp/DrawingOOP.png)*Objects Created from Classes/ Inheritance*
 
 # MonoBehaviour
 
