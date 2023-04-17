@@ -16,7 +16,7 @@ Modular Software developlment using Classes to construct objects which contain d
  - #### Polymorphism
 	- Ability to implement inherited properties or methods in different ways across multiple abstractions.
 
-![[Drawing OOP.png]]
+![[/content/Drawing OOP.png]]
 
 # MonoBehaviour
 
