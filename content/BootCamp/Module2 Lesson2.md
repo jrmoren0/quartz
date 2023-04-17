@@ -35,7 +35,7 @@ public static void SubtractEnemy()
 ```c#
 public static class Math
 ```
-![[image/Static Modifiers]]
+![Static Modifiers](Bootcamp/image/Static_Modifiers)
 # Inheritance
 [Inheritance](https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/object-oriented/inheritance) allows us to create a new class from an existing class. The new class will "inherit" the fields and methods of the original class.  We can then add functionality and specificity to the new class.
 
@@ -78,5 +78,5 @@ The main reason for object-oriented programming is to reuse and organize code.
 	*e.g. a heart is "part of" a human*
 	*e.g. a human "has a" heart* (Player and Health)
 
-![[image/Pasted image 20230414142550.png]]
+![Static Modifiers](Bootcamp/image/OOPRelationships.png)
 
