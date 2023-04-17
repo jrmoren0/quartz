@@ -16,7 +16,7 @@ Modular Software development using classes to construct objects which contain da
  - #### Polymorphism
 	- Ability to implement inherited properties or methods in different ways across multiple abstractions.
 
-![Enable GitHub Pages](Bootcamp/DrawingOOP.png)*Objects Created from Classes/ Inheritance*
+![Enable GitHub Pages](/Bootcamp/DrawingOOP.png)*Objects Created from Classes/ Inheritance*
 
 # MonoBehaviour
 
