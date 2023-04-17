@@ -1,8 +1,8 @@
-```yaml
+
 ---
 title: "lesson1"
 ---
-```
+
 # Object Oriented Programming 
 Modular Software developlment using Classes to construct objects which contain data in the form of properties (fields).
 
