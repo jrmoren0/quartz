@@ -11,28 +11,11 @@
             "id": "7a89846868de375a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Module2 Lesson1.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b06fa0fa8cd01a3e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bootcamp.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bootcamp.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bootcamp.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Bootcamp.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -160,14 +139,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b06fa0fa8cd01a3e",
+  "active": "861f0dfab7e3dfa3",
   "lastOpenFiles": [
-    "Module2 Lesson1.md",
-    "Module2 Lesson2.md",
-    "Module2 Lesson3.md",
-    "Bootcamp.md",
-    "Lesson 2.1.md",
     "Lesson 1.md",
+    "Lesson 2.1.md",
+    "Bootcamp.md",
+    "Module2 Lesson3.md",
+    "Module2 Lesson2.md",
+    "Module2 Lesson1.md",
     "BootCamp/DrawingOOP.png.md",
     "DrawingOOP.png",
     "BootCamp",
