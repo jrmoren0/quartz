@@ -11,28 +11,13 @@
             "id": "7a89846868de375a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Module2 Lesson1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "97a1f95efca5196a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BootCamp/DrawingOOP.png.md",
-                "mode": "source",
-                "source": false
+                "file": "BootCamp/DrawingOOP.png"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BootCamp/DrawingOOP.png.md",
+                "file": "BootCamp/DrawingOOP.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BootCamp/DrawingOOP.png.md",
+                "file": "BootCamp/DrawingOOP.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BootCamp/DrawingOOP.png.md"
+                "file": "BootCamp/DrawingOOP.png"
               }
             }
           }
@@ -162,16 +147,16 @@
   },
   "active": "861f0dfab7e3dfa3",
   "lastOpenFiles": [
-    "Module2 Lesson1.md",
     "BootCamp/DrawingOOP.png.md",
+    "BootCamp/DrawingOOP.png",
+    "DrawingOOP.png",
     "DrawingOOP.png.md",
-    "BootCamp/DrawingOOP.png.md",
-    "image/DrawingOOP.png",
+    "Bootcamp Notes.md",
+    "Module2 Lesson1.md",
     "image/Static Modifiers.md",
     "Module2 Lesson2.md",
     "Untitled 1",
     "image",
-    "Bootcamp Notes.md",
     "Lesson 2.1.md",
     "Lesson 1.md",
     "Module2 Lesson3.md",
