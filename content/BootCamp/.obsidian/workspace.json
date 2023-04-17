@@ -13,11 +13,22 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "BootCamp/DrawingOOP.png"
+                "file": "DrawingOOP.png"
+              }
+            }
+          },
+          {
+            "id": "60b155b24b1a0ebe",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "image/DrawingOOP.png"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -83,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BootCamp/DrawingOOP.png",
+                "file": "image/DrawingOOP.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BootCamp/DrawingOOP.png",
+                "file": "image/DrawingOOP.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BootCamp/DrawingOOP.png"
+                "file": "image/DrawingOOP.png"
               }
             }
           }
@@ -145,14 +156,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "861f0dfab7e3dfa3",
+  "active": "60b155b24b1a0ebe",
   "lastOpenFiles": [
-    "BootCamp/DrawingOOP.png.md",
-    "BootCamp/DrawingOOP.png",
+    "image/Pasted image 20230414142550.png",
+    "image/DrawingOOP.png",
     "DrawingOOP.png",
+    "Module2 Lesson1.md",
+    "BootCamp/DrawingOOP.png",
+    "BootCamp/DrawingOOP.png.md",
     "DrawingOOP.png.md",
     "Bootcamp Notes.md",
-    "Module2 Lesson1.md",
     "image/Static Modifiers.md",
     "Module2 Lesson2.md",
     "Untitled 1",
@@ -165,7 +178,6 @@
     "Content/Drawing OOP.png.md",
     "Excalidraw/DrawingOOP.md",
     "Excalidraw/Enum Drawing.md",
-    "image/Pasted image 20230414142550.png",
     "Excalidraw/test.md",
     "Excalidraw/images",
     "Content",
