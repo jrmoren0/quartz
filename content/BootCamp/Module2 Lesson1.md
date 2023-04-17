@@ -9,7 +9,7 @@ Modular Software development using classes to construct objects which contain da
 ## 4 Elements of OOP
  - #### Abstraction 
 	-  Modeling the relevant attributes and interactions of entities as classes to define an abstract representation of a system.
-- #### Encaplsulation
+- #### Encapsulation
 	- Hiding the internal state and functionality of an object and only allowing access through a public set of functions.
 - #### Inheritance 
 	- Ability to create new abstractions based on existing abstractions.
