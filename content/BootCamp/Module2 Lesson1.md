@@ -17,7 +17,7 @@ Modular Software development using classes to construct objects which contain da
 	- Ability to implement inherited properties or methods in different ways across multiple abstractions.
 
 
-![Enable GitHub Pages](/BootCamp/images/DrawingOOP.png)*Objects created from a class/ Inheritance*
+![Enable GitHub Pages](/BootCamp/image/DrawingOOP.png)*Objects created from a class/ Inheritance*
 
 # MonoBehaviour
 
