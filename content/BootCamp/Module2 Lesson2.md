@@ -1,11 +1,9 @@
 ---
 title: "Lesson 2"
 ---
+##### Previous Lesson
+[Module2 Lesson1](Module2%20Lesson1.md)
 
-
-
-# Recap
-[[Module2 Lesson1]]
 # Static Modifier
 
 - *Statitc Field:*  A Static field will be  bound to the class not a particular instance of the class (it is shared between all instances of the class.)
@@ -79,4 +77,8 @@ The main reason for object-oriented programming is to reuse and organize code.
 	*e.g. a human "has a" heart* (Player and Health)
 
 ![Static Modifiers](BootCamp/image/OOPRelationships.png)
+
+
+##### Next Lesson
+[Module2 Lesson3](Module2%20Lesson3.md)
 

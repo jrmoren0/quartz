@@ -1,6 +1,7 @@
 ---
 title: "Lesson 1"
 ---
+##### Previous Lesson
 
 # Object Oriented Programming 
 Modular Software development using classes to construct objects which contain data in the form of properties (fields).
@@ -104,3 +105,5 @@ public class Weapon
 - [private](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/private): The type or member can be accessed only by code in the same `class` or `struct`.
 
 
+##### Next Lesson
+[Module2 Lesson2](Module2%20Lesson2.md)
