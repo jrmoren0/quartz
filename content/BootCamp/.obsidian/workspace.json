@@ -52,7 +52,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Module2 Lesson3.md",
+                "file": "image/AbstractionDrawing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Module2 Lesson3.md",
+                "file": "image/AbstractionDrawing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Module2 Lesson3.md"
+                "file": "image/AbstractionDrawing.md"
               }
             }
           }
@@ -180,14 +180,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e67ddb55f1412781",
+  "active": "0b845db7998e255e",
   "lastOpenFiles": [
+    "Module2 Lesson3.md",
     "Excalidraw/DrawingOOP.md",
     "Excalidraw/DrawingOOP 1.md",
     "Excalidraw/Enum Drawing.md",
     "Excalidraw/test.md",
     "image/AbstractVsInterface.png",
-    "Module2 Lesson3.md",
     "Module2 Lesson2.md",
     "Excalidraw/Drawing 2023-04-18 17.27.09.excalidraw.md",
     "Excalidraw/Drawing 2023-04-10 00.48.42.excalidraw.md",
