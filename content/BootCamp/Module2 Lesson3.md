@@ -10,7 +10,7 @@ A virtual method will allow you to create a method that can be inherited by mult
 
 # Abstraction
 Modeling the relevant attributes and interactions of entities as classes to define an abstract representation of a system. ()
-![AbstractionDrawing](BootCamp/image/AbstractionDrawing.md)
+![AbstractionDrawing](BootCamp/image/AbstractionDrawing.png)
 
 ###### Examples
 car
@@ -32,7 +32,7 @@ car
 
 # Abstract Classes and Methods
 Use the abstract modifier in a class declaration to indicate that a class is intended only to be a base class of other classes, not instantiated on its own. Members marked as abstract must be implemented by non-abstract classes that derive from the abstract class.
-![Abstract Classes](BootCamp/image/Abstract%20Classes.md)
+![Abstract Classes](BootCamp/image/Abstract%20Classes.png)
 
 ###### Example
  ```C#
@@ -180,3 +180,7 @@ public class PlayerInput : MonoBehaviour
 }
 
 ```
+
+
+##### Next Lesson
+[Module2 Lesson3](Module2%20Lesson3.md)
