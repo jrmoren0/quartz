@@ -10,7 +10,7 @@ A virtual method will allow you to create a method that can be inherited by mult
 
 # Abstraction
 Modeling the relevant attributes and interactions of entities as classes to define an abstract representation of a system. ()
-![AbstractionDrawing](Excalidraw/AbstractionDrawing.md)
+![AbstractionDrawing](BootCamp/image/AbstractionDrawing.md)
 
 ###### Examples
 car
@@ -32,7 +32,7 @@ car
 
 # Abstract Classes and Methods
 Use the abstract modifier in a class declaration to indicate that a class is intended only to be a base class of other classes, not instantiated on its own. Members marked as abstract must be implemented by non-abstract classes that derive from the abstract class.
-![Abstract Classes](Excalidraw/Abstract%20Classes.md)
+![Abstract Classes](BootCamp/image/Abstract%20Classes.md)
 
 ###### Example
  ```C#
@@ -87,7 +87,7 @@ public abstract class PlayableObject : MonoBehaviour, IDamageable
 Abstract classes are for shared behavior  but interfaces are for similar interactions.
 
 
-![](DrawingOOP1.png)
+![](BootCamp/image/AbstractVsInterface.png)
 
 # Customize Player Input
 ###### code
