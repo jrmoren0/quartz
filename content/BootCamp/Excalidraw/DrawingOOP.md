@@ -14,7 +14,7 @@ Objects ^wSy5i7Zd
 
 class: Animal ^NtwXjjp7
 
-Properties:
+Fields:
 Int age
 Int legNumber   ^RjIYrCKt
 
@@ -25,13 +25,13 @@ Eat(); ^7lZp1W0t
 
 class: Human ^i53BmJL6
 
-Properties:
+Fields:
 Int age : 32
 Int legNumber: 2 ^aFfz05iu
 
 class: Dog ^F5MSIi2h
 
-Properties:
+Fields:
 Int age; 2
 Int legNumber: 4 ^xCGyUMBi
 
@@ -50,7 +50,7 @@ Bark(); ^7seL7pHO
 
 class: Cat ^ayxP4llg
 
-Properties:
+Fields;
 Int age; 3
 Int legNumber: 4
 Int whiskerNumber 6
@@ -69,7 +69,7 @@ Int;CanineTeethNumber:4 ^CdumeVqc
 
 class: LivingBeing ^qh5YIJCB
 
-Properties:
+Fields
 Int age
   ^MUdKmcN0
 
@@ -1203,8 +1203,8 @@ Class ^0Z7ltK4E
 		},
 		{
 			"type": "text",
-			"version": 277,
-			"versionNonce": 538726520,
+			"version": 283,
+			"versionNonce": 790899549,
 			"isDeleted": false,
 			"id": "RjIYrCKt",
 			"fillStyle": "solid",
@@ -1225,17 +1225,17 @@ Class ^0Z7ltK4E
 			],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1681430373778,
+			"updated": 1682020373942,
 			"link": null,
 			"locked": false,
 			"fontSize": 18.052681660761817,
 			"fontFamily": 1,
-			"text": "Properties:\nInt age\nInt legNumber  ",
-			"rawText": "Properties:\nInt age\nInt legNumber  ",
+			"text": "Fields:\nInt age\nInt legNumber  ",
+			"rawText": "Fields:\nInt age\nInt legNumber  ",
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "Properties:\nInt age\nInt legNumber  ",
+			"originalText": "Fields:\nInt age\nInt legNumber  ",
 			"lineHeight": 1.25
 		},
 		{
@@ -1357,8 +1357,8 @@ Class ^0Z7ltK4E
 		},
 		{
 			"type": "text",
-			"version": 559,
-			"versionNonce": 1811248136,
+			"version": 566,
+			"versionNonce": 1171496915,
 			"isDeleted": false,
 			"id": "aFfz05iu",
 			"fillStyle": "solid",
@@ -1367,7 +1367,7 @@ Class ^0Z7ltK4E
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": -140.53408427954946,
+			"x": -140.63652372582575,
 			"y": -98.44745069746693,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
@@ -1379,23 +1379,23 @@ Class ^0Z7ltK4E
 			],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1681254217718,
+			"updated": 1682020403262,
 			"link": null,
 			"locked": false,
 			"fontSize": 18.052681660761817,
 			"fontFamily": 1,
-			"text": "Properties:\nInt age : 32\nInt legNumber: 2",
-			"rawText": "Properties:\nInt age : 32\nInt legNumber: 2",
+			"text": "Fields:\nInt age : 32\nInt legNumber: 2",
+			"rawText": "Fields:\nInt age : 32\nInt legNumber: 2",
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "Properties:\nInt age : 32\nInt legNumber: 2",
+			"originalText": "Fields:\nInt age : 32\nInt legNumber: 2",
 			"lineHeight": 1.25
 		},
 		{
 			"type": "rectangle",
-			"version": 859,
-			"versionNonce": 165822840,
+			"version": 860,
+			"versionNonce": 597735357,
 			"isDeleted": false,
 			"id": "yp3vDjQSQ348BHCgtlbs5",
 			"fillStyle": "hachure",
@@ -1405,7 +1405,7 @@ Class ^0Z7ltK4E
 			"opacity": 100,
 			"angle": 0,
 			"x": 369.1916722258049,
-			"y": -138.0670429626757,
+			"y": -138.17278690721895,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 279.7006999936811,
@@ -1418,14 +1418,14 @@ Class ^0Z7ltK4E
 				"type": 1
 			},
 			"boundElements": [],
-			"updated": 1681254263484,
+			"updated": 1682020387417,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "line",
-			"version": 786,
-			"versionNonce": 762753544,
+			"version": 787,
+			"versionNonce": 1840606867,
 			"isDeleted": false,
 			"id": "TTJsYuckK4bhpwPPzvtOx",
 			"fillStyle": "hachure",
@@ -1435,7 +1435,7 @@ Class ^0Z7ltK4E
 			"opacity": 100,
 			"angle": 0,
 			"x": 371.70303529722366,
-			"y": -98.14311984591927,
+			"y": -98.24886379046251,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 278.9368694558658,
@@ -1448,7 +1448,7 @@ Class ^0Z7ltK4E
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1681254263484,
+			"updated": 1682020387417,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -1469,8 +1469,8 @@ Class ^0Z7ltK4E
 		},
 		{
 			"type": "text",
-			"version": 720,
-			"versionNonce": 269177464,
+			"version": 721,
+			"versionNonce": 93108253,
 			"isDeleted": false,
 			"id": "F5MSIi2h",
 			"fillStyle": "solid",
@@ -1480,7 +1480,7 @@ Class ^0Z7ltK4E
 			"opacity": 100,
 			"angle": 0,
 			"x": 394.32126010807934,
-			"y": -137.83678002643296,
+			"y": -137.9425239709762,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 160.95098876953125,
@@ -1491,7 +1491,7 @@ Class ^0Z7ltK4E
 			],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1681254263484,
+			"updated": 1682020387417,
 			"link": null,
 			"locked": false,
 			"fontSize": 31.595937016078313,
@@ -1506,8 +1506,8 @@ Class ^0Z7ltK4E
 		},
 		{
 			"type": "text",
-			"version": 621,
-			"versionNonce": 1189294344,
+			"version": 641,
+			"versionNonce": 1044649117,
 			"isDeleted": false,
 			"id": "xCGyUMBi",
 			"fillStyle": "solid",
@@ -1517,7 +1517,7 @@ Class ^0Z7ltK4E
 			"opacity": 100,
 			"angle": 0,
 			"x": 393.319223850077,
-			"y": -74.36599331921866,
+			"y": -74.24703138160748,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 146.20480346679688,
@@ -1528,23 +1528,23 @@ Class ^0Z7ltK4E
 			],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1681254263484,
+			"updated": 1682020397054,
 			"link": null,
 			"locked": false,
 			"fontSize": 18.052681660761817,
 			"fontFamily": 1,
-			"text": "Properties:\nInt age; 2\nInt legNumber: 4",
-			"rawText": "Properties:\nInt age; 2\nInt legNumber: 4",
+			"text": "Fields:\nInt age; 2\nInt legNumber: 4",
+			"rawText": "Fields:\nInt age; 2\nInt legNumber: 4",
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "Properties:\nInt age; 2\nInt legNumber: 4",
+			"originalText": "Fields:\nInt age; 2\nInt legNumber: 4",
 			"lineHeight": 1.25
 		},
 		{
 			"type": "rectangle",
-			"version": 839,
-			"versionNonce": 1286580856,
+			"version": 840,
+			"versionNonce": 1257637651,
 			"isDeleted": false,
 			"id": "-zJPYxeW-z8bhE04Gr-t3",
 			"fillStyle": "hachure",
@@ -1554,7 +1554,7 @@ Class ^0Z7ltK4E
 			"opacity": 100,
 			"angle": 0,
 			"x": 938.8994954152733,
-			"y": -120.48169859400298,
+			"y": -120.58413804027924,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 279.7006999936811,
@@ -1567,14 +1567,14 @@ Class ^0Z7ltK4E
 				"type": 1
 			},
 			"boundElements": [],
-			"updated": 1681253948269,
+			"updated": 1682020406235,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "line",
-			"version": 768,
-			"versionNonce": 1464883464,
+			"version": 769,
+			"versionNonce": 211806109,
 			"isDeleted": false,
 			"id": "piV7AF0gauda0xKEk8VxG",
 			"fillStyle": "hachure",
@@ -1584,7 +1584,7 @@ Class ^0Z7ltK4E
 			"opacity": 100,
 			"angle": 0,
 			"x": 941.4108584866922,
-			"y": -80.55777547724654,
+			"y": -80.6602149235228,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 278.9368694558658,
@@ -1597,7 +1597,7 @@ Class ^0Z7ltK4E
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1681253948270,
+			"updated": 1682020406235,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -1618,8 +1618,8 @@ Class ^0Z7ltK4E
 		},
 		{
 			"type": "text",
-			"version": 704,
-			"versionNonce": 212152840,
+			"version": 705,
+			"versionNonce": 2070523059,
 			"isDeleted": false,
 			"id": "ayxP4llg",
 			"fillStyle": "solid",
@@ -1629,7 +1629,7 @@ Class ^0Z7ltK4E
 			"opacity": 100,
 			"angle": 0,
 			"x": 964.0290832975479,
-			"y": -120.25143565776023,
+			"y": -120.35387510403649,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 162.24618530273438,
@@ -1640,7 +1640,7 @@ Class ^0Z7ltK4E
 			],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1681254070624,
+			"updated": 1682020406235,
 			"link": null,
 			"locked": false,
 			"fontSize": 31.595937016078313,
@@ -1655,8 +1655,8 @@ Class ^0Z7ltK4E
 		},
 		{
 			"type": "text",
-			"version": 641,
-			"versionNonce": 700789000,
+			"version": 650,
+			"versionNonce": 1941637693,
 			"isDeleted": false,
 			"id": "RhEdnStX",
 			"fillStyle": "solid",
@@ -1666,7 +1666,7 @@ Class ^0Z7ltK4E
 			"opacity": 100,
 			"angle": 0,
 			"x": 962.8381007737505,
-			"y": -57.58367058017586,
+			"y": -57.68611002645213,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 178.2615509033203,
@@ -1677,17 +1677,17 @@ Class ^0Z7ltK4E
 			],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1681254210046,
+			"updated": 1682020413178,
 			"link": null,
 			"locked": false,
 			"fontSize": 18.052681660761817,
 			"fontFamily": 1,
-			"text": "Properties:\nInt age; 3\nInt legNumber: 4\nInt whiskerNumber 6\n\n ",
-			"rawText": "Properties:\nInt age; 3\nInt legNumber: 4\nInt whiskerNumber 6\n\n ",
+			"text": "Fields;\nInt age; 3\nInt legNumber: 4\nInt whiskerNumber 6\n\n ",
+			"rawText": "Fields;\nInt age; 3\nInt legNumber: 4\nInt whiskerNumber 6\n\n ",
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "Properties:\nInt age; 3\nInt legNumber: 4\nInt whiskerNumber 6\n\n ",
+			"originalText": "Fields;\nInt age; 3\nInt legNumber: 4\nInt whiskerNumber 6\n\n ",
 			"lineHeight": 1.25
 		},
 		{
@@ -9304,8 +9304,8 @@ Class ^0Z7ltK4E
 		},
 		{
 			"type": "rectangle",
-			"version": 555,
-			"versionNonce": 1175597432,
+			"version": 556,
+			"versionNonce": 1526708595,
 			"isDeleted": false,
 			"id": "Z80FnFvqtwCO_zQF9EOGp",
 			"fillStyle": "hachure",
@@ -9315,7 +9315,7 @@ Class ^0Z7ltK4E
 			"opacity": 100,
 			"angle": 0,
 			"x": 208.19901982709854,
-			"y": -836.409383398855,
+			"y": -836.5118228451312,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 279.7006999936811,
@@ -9328,14 +9328,14 @@ Class ^0Z7ltK4E
 				"type": 1
 			},
 			"boundElements": [],
-			"updated": 1681430414557,
+			"updated": 1682020361864,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "line",
-			"version": 484,
-			"versionNonce": 8241672,
+			"version": 485,
+			"versionNonce": 554240829,
 			"isDeleted": false,
 			"id": "g3CRFBzHqd616iIsAA5PM",
 			"fillStyle": "hachure",
@@ -9345,7 +9345,7 @@ Class ^0Z7ltK4E
 			"opacity": 100,
 			"angle": 0,
 			"x": 210.7103828985173,
-			"y": -796.4854602820985,
+			"y": -796.5878997283747,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 278.9368694558658,
@@ -9358,7 +9358,7 @@ Class ^0Z7ltK4E
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1681430414557,
+			"updated": 1682020361864,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -9379,8 +9379,8 @@ Class ^0Z7ltK4E
 		},
 		{
 			"type": "text",
-			"version": 424,
-			"versionNonce": 549274232,
+			"version": 425,
+			"versionNonce": 407769875,
 			"isDeleted": false,
 			"id": "qh5YIJCB",
 			"fillStyle": "solid",
@@ -9390,7 +9390,7 @@ Class ^0Z7ltK4E
 			"opacity": 100,
 			"angle": 0,
 			"x": 233.47927066570622,
-			"y": -836.1791204626122,
+			"y": -836.2815599088884,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 260.58575439453125,
@@ -9401,7 +9401,7 @@ Class ^0Z7ltK4E
 			],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1681430414557,
+			"updated": 1682020361864,
 			"link": null,
 			"locked": false,
 			"fontSize": 31.595937016078313,
@@ -9416,8 +9416,8 @@ Class ^0Z7ltK4E
 		},
 		{
 			"type": "text",
-			"version": 309,
-			"versionNonce": 1160568,
+			"version": 317,
+			"versionNonce": 421050749,
 			"isDeleted": false,
 			"id": "MUdKmcN0",
 			"fillStyle": "solid",
@@ -9427,10 +9427,10 @@ Class ^0Z7ltK4E
 			"opacity": 100,
 			"angle": 0,
 			"x": 232.4772344077038,
-			"y": -773.5113553850279,
+			"y": -773.7162342775804,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 94.41940307617188,
+			"width": 68.44551086425781,
 			"height": 67.69755622785681,
 			"seed": 1320602120,
 			"groupIds": [
@@ -9438,17 +9438,17 @@ Class ^0Z7ltK4E
 			],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1681430419666,
+			"updated": 1682020367107,
 			"link": null,
 			"locked": false,
 			"fontSize": 18.052681660761817,
 			"fontFamily": 1,
-			"text": "Properties:\nInt age\n ",
-			"rawText": "Properties:\nInt age\n ",
+			"text": "Fields\nInt age\n ",
+			"rawText": "Fields\nInt age\n ",
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "Properties:\nInt age\n ",
+			"originalText": "Fields\nInt age\n ",
 			"lineHeight": 1.25
 		},
 		{
@@ -9658,10 +9658,10 @@ Class ^0Z7ltK4E
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 739.2876690718249,
-		"scrollY": 1222.2868599002622,
+		"scrollX": -487.5805539641053,
+		"scrollY": 352.46488357274166,
 		"zoom": {
-			"value": 0.33875412121415144
+			"value": 1.18210078638455
 		},
 		"currentItemRoundness": "sharp",
 		"gridSize": null,

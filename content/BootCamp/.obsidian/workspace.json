@@ -4,69 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "b74080a121c9c6b5",
+        "id": "529759f4bc68c6e7",
         "type": "tabs",
         "children": [
           {
-            "id": "f1c6a901b9e37e80",
+            "id": "95eed2619c97a6ce",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Module2 Lesson3.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e67ddb55f1412781",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Module2 Lesson3.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3a5c6f467f44cbf4",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "image/AbstractVsInterface.png"
-              }
-            }
-          },
-          {
-            "id": "0b845db7998e255e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Module2 Lesson3.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "88e13758b3575dd0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Module2 Lesson3.md",
+                "file": "Module2 Lesson4.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -80,16 +33,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "861f0dfab7e3dfa3",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
-          {
             "id": "17c3699d85e49713",
             "type": "leaf",
             "state": {
@@ -97,9 +40,9 @@
               "state": {
                 "query": "",
                 "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
+                "explainSearch": true,
+                "collapseAll": true,
+                "extraContext": true,
                 "sortOrder": "alphabetical"
               }
             }
@@ -111,12 +54,46 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "154c7583cd88214f",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "596ff9f4ad1f190e",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Untitled 2.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              }
+            }
+          },
+          {
+            "id": "f0304ffe1289c203",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 748.5
   },
   "right": {
     "id": "8ca769ee875b1c58",
@@ -132,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Module2 Lesson3.md",
+                "file": "Module2 Lesson4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Module2 Lesson3.md",
+                "file": "Module2 Lesson4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,15 +149,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Module2 Lesson3.md"
+                "file": "Module2 Lesson4.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 571.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -191,57 +169,60 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "publish:Publish changes": false
     }
   },
-  "active": "88e13758b3575dd0",
+  "active": "95eed2619c97a6ce",
   "lastOpenFiles": [
-    "image/Abstract Classes.png",
+    "Module2 Lesson3.md",
+    "Module2 Lesson4.md",
+    "BootCamp/image/OOPRelationships.png.md",
+    "Module2 Lesson2.md",
+    "Untitled Diagram 2.svg",
+    "Untitled Diagram 1.svg",
+    "Untitled 1.canvas",
+    "Excalidraw/Polymorphism.md",
+    "image/Polymorphism.png",
+    "Untitled 2.canvas",
+    "2023-04-22.md",
+    "Untitled.canvas",
+    "Untitled.md",
+    "Untitled Diagram.svg",
+    "Drawing 2023-04-20 22.07.04.excalidraw.md",
+    "Excalidraw/DrawingOOP 1.md",
+    "Excalidraw/DrawingOOP.md",
     "image/AbstractionDrawing.md",
     "image/AbstractionDrawing.png",
     "image/AbstractVsInterface.png",
     "image/DrawingOOP.png",
     "image/InterfacesDrawing.md",
-    "image/OOPRelationships.png",
     "image/Static_Modifiers.md",
-    "image/Static_Modifiers.png",
-    "image/Abstract Classes.md",
-    "Module2 Lesson4.md",
-    "Module2 Lesson2.md",
-    "Module2 Lesson3.md",
-    "Excalidraw/DrawingOOP.md",
-    "Excalidraw/DrawingOOP 1.md",
-    "Excalidraw/Enum Drawing.md",
-    "Excalidraw/test.md",
+    "image/OOPRelationships.png",
     "Excalidraw/Drawing 2023-04-18 17.27.09.excalidraw.md",
     "Excalidraw/Drawing 2023-04-10 00.48.42.excalidraw.md",
-    "Excalidraw/Drawing 2023-04-13 18.49.51.excalidraw.md",
     "Module2 Lesson1.md",
-    "DrawingOOP1.png",
-    "DrawingOOP.png",
+    "image/Polymorphism.png",
+    "image/Abstract Classes.png",
+    "image/Abstract Classes.md",
+    "Excalidraw/Enum Drawing.md",
+    "Excalidraw/test.md",
+    "Excalidraw/Drawing 2023-04-13 18.49.51.excalidraw.md",
     "Excalidraw/Interfaces.md",
     "BootCamp/image/Static_Modifiers.md",
     "BootCamp/image",
     "image/OOPRelationships.md",
-    "BootCamp/DrawingOOP.png",
     "BootCamp/DrawingOOP.png.md",
     "DrawingOOP.png.md",
     "Bootcamp Notes.md",
     "Untitled 1",
     "image",
-    "Lesson 2.1.md",
-    "Lesson 1.md",
     "BootCamp",
-    "content/Drawing OOP.png.md",
-    "Content/Drawing OOP.png.md",
     "Excalidraw/images",
     "Content",
     "NewFolder",
     "Testfolder",
-    "Excalidraw/Scripts/Downloaded/Create new markdown file and embed into active drawing.svg",
     "Excalidraw/Scripts/Downloaded",
-    "Excalidraw/Scripts",
-    "Untitled 1.canvas",
-    "Untitled.canvas"
+    "Excalidraw/Scripts"
   ]
 }
