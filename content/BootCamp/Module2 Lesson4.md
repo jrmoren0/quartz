@@ -8,6 +8,7 @@ title: "Lesson 4"
 # Polymorphism
 [Polymorphism](https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/object-oriented/polymorphism) is  a Greek word that means "many-shaped, and it has two distinct aspects: 
 - At run time, objects of a derived class may be treated as objects of a base class in places such as method parameters and collections or arrays
+- -   Base classes may define and implement [virtual](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/virtual)  methods, and derived classes can [override](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/override) them, which means they provide their own definition and implementation. At run-time, when client code calls the method, the CLR looks up the run-time type of the object, and invokes that override of the virtual method. In your source code you can call a method on a base class, and cause a derived class's version of the method to be executed.
 ![Polymorphism](Excalidraw/Polymorphism.md)
 ![](BootCamp/image/Polymorphism.png)
 e.g. [Tranform.Tranlate()](https://docs.unity3d.com/ScriptReference/Transform.Translate.html)
