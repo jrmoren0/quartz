@@ -11,7 +11,7 @@ title: "Notes"
 
 ## [[Module2 Lesson4|Lesson 4]]
 
-## Lesson 5
+## [[Module2 Lesson5|Lesson 5]]
 
 ## Lesson 6
 
