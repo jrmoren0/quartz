@@ -47,9 +47,9 @@ public bool validateDate(string date)
 
 ### Activity Diagrams 
 *Activity Diagram Bowling Score*
-![](image/Scoring%20flow.drawio%201.png)
+![](BootCamp/image/Scoring%20flow.drawio%201.png)
  _Activity Diagram Bowling Score_
- ![Activity Diagram Bowling Throw](image/Ball%20throwing%20flow.drawio.png)
+ ![Activity Diagram Bowling Throw](BootCamp/image/Ball%20throwing%20flow.drawio.png)
 
 
 
@@ -57,7 +57,7 @@ public bool validateDate(string date)
 
 ### Sequence Diagrams 
 
-![](image/phpAm8i9t.png)
+![](BootCamp/image/phpAm8i9t.png)
 # Objects! Planning
 # Objects! Enemy Attack and Bullets
 

@@ -15,7 +15,7 @@ int year = 1950'
 
 # Array
 Arrays are used to store similar types of multiple data items using a single name
-![](BootCamp/image/Array.excalidraw.png)
+![Array.excalidraw](Excalidraw/Array.excalidraw.md)
 #### Pros:
 - strongly typed
 - performant 
@@ -48,7 +48,7 @@ LinkedList consists of nodes where each node contains a data field and a referen
 ![](BootCamp/image/Linked%20List.webp)
 ![](https://miro.medium.com/v2/resize:fit:1400/1*UWyY_qX0193MwNhpD9foXg.png)
 
-![](https://miro.medium.com/v2/resize:fit:1400/1*QEPR7Z-EMXHwq-D8TjDyLg.png)
+![](BootCamp/https://miro.medium.com/v2/resize:fit:1400/1*QEPR7Z-EMXHwq-D8TjDyLg.png)
 #### Pros:
 - easily change size
 - performant 
