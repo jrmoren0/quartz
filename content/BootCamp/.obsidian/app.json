@@ -7,5 +7,9 @@
   },
   "alwaysUpdateLinks": true,
   "newLinkFormat": "absolute",
-  "useMarkdownLinks": true
+  "useMarkdownLinks": true,
+  "spellcheckDictionary": [
+    "Deserialization",
+    "PlayerPrefs"
+  ]
 }

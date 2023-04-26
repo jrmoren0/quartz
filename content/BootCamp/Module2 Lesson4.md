@@ -42,5 +42,24 @@ public bool validateDate(string date)
 # Code Planning and Documentation
 
 [https://lucid.app/lucidchart/e61c96a3-e33b-4dab-9db0-e0b25483e6e1/edit?shared=true&page=HWEp-vi-RSFO#](https://lucid.app/lucidchart/e61c96a3-e33b-4dab-9db0-e0b25483e6e1/edit?shared=true&page=HWEp-vi-RSFO#)
+
+# Activity and Sequence Diagrams
+
+### Activity Diagrams 
+*Activity Diagram Bowling Score*
+![](image/Scoring%20flow.drawio%201.png)
+ _Activity Diagram Bowling Score_
+ ![Activity Diagram Bowling Throw](image/Ball%20throwing%20flow.drawio.png)
+
+
+
+
+
+### Sequence Diagrams 
+
+![](phpAm8i9t.png)
+# Objects! Planning
 # Objects! Enemy Attack and Bullets
-# Objects! Planning 
+
+##### Next Lesson
+[Module2 Lesson5](Module2%20Lesson5.md)
