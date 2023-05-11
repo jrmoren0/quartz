@@ -176,7 +176,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 473.5
+    "width": 473.5,
+    "collapsed": true
   },
   "right": {
     "id": "8ca769ee875b1c58",
@@ -258,13 +259,13 @@
   },
   "active": "8e508712f68b34df",
   "lastOpenFiles": [
-    "Bootcamp Notes.md",
+    "Untitled Diagram.svg",
     "Module3 Lesson2.md",
+    "Bootcamp Notes.md",
     "Module2 Lesson7.md",
     "Module2 Lesson8.md",
     "Module3 Lesson1.md",
     "Sample Kanban.md",
-    "Untitled Diagram.svg",
     "Scrum-workflow.png",
     "1280-spiral-model.png",
     "image/WaterfallDiagram.png",
@@ -293,7 +294,6 @@
     "image/Static_Modifiers.md",
     "image/InterfacesDrawing.md",
     "image/AbstractionDrawing.md",
-    "image/Abstract Classes.md",
     "Untitled.canvas",
     "Module2Copy",
     "Untitled 2.canvas",
