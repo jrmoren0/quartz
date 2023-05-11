@@ -11,5 +11,6 @@
   "spellcheckDictionary": [
     "Deserialization",
     "PlayerPrefs"
-  ]
+  ],
+  "spellcheck": true
 }
