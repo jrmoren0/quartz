@@ -5,7 +5,7 @@ title: "Module3 Lesson2"
 [Module2 Lesson3](Module3%20Lesson1.md)
 
 # Git
-![](image/pr-retargeting-diagram2.jpeg)
+![](BootCamp/image/pr-retargeting-diagram2.jpeg)
 
 Navigate
 
