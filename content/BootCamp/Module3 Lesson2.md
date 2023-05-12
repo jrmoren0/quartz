@@ -2,10 +2,13 @@
 title: "Module3 Lesson2"
 ---
 ##### Previous Lesson
-[Module2 Lesson3](Module2%20Lesson3.md)
+[Module2 Lesson3](Module3%20Lesson1.md)
 
-# Git
-![Git tags vs branches: Differences and when to use them | CircleCI](https://images.ctfassets.net/il1yandlcjgk/6d6SSdiH86vrP0SwIUX5Qp/06f73d724a6cd3714197e68f380a2d22/git-tag-vs-branch.jpg)
+# Gitunity's project
+
+![](image/pr-retargeting-diagram2.webp)
+Navigate
+
 Navigate to path and create a directory (folder)
 ```bash
 
@@ -82,7 +85,6 @@ Add Some text files!
 
 ```bash
 touch sampletext.txt
-git init
 git add  yourname.txt
 git commit -m 'added my name'
 ```

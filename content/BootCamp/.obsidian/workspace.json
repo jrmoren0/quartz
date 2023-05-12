@@ -15,7 +15,7 @@
               "state": {
                 "file": "Module3 Lesson2.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           },
@@ -170,14 +170,23 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "dae04bbc40af4a0d",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "image/pr-retargeting-diagram2.webp"
+              }
+            }
           }
         ],
         "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 473.5,
-    "collapsed": true
+    "width": 473.5
   },
   "right": {
     "id": "8ca769ee875b1c58",
@@ -259,8 +268,9 @@
   },
   "active": "8e508712f68b34df",
   "lastOpenFiles": [
-    "Untitled Diagram.svg",
+    "image/pr-retargeting-diagram2.webp",
     "Module3 Lesson2.md",
+    "Untitled Diagram.svg",
     "Bootcamp Notes.md",
     "Module2 Lesson7.md",
     "Module2 Lesson8.md",
@@ -281,7 +291,6 @@
     "Excalidraw/Drawing 2023-05-04 18.51.34.excalidraw.md",
     "Excalidraw/Drawing 2023-05-04 18.42.26.excalidraw.md",
     "Excalidraw/Unit.excalidraw 1.md",
-    "LeftHandRuleDiagram.png",
     "Excalidraw/SerializationandDeserialization.excalidraw.md",
     "Excalidraw/Drawing 2023-04-27 17.44.17.excalidraw.md",
     "Excalidraw/Drawing 2023-04-25 19.53.47.excalidraw.md",
