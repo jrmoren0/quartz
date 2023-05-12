@@ -4,7 +4,7 @@ title: "Module3 Lesson2"
 ##### Previous Lesson
 [Module2 Lesson3](Module3%20Lesson1.md)
 
-# Gitunity's project
+# Git
 
 ![](image/pr-retargeting-diagram2.webp)
 Navigate
