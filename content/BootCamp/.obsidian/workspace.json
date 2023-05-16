@@ -13,9 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Module3 Lesson2.md",
+                "file": "Module3 Lesson3.md",
                 "mode": "source",
                 "source": true
+              }
+            }
+          },
+          {
+            "id": "be37dd1323cbacbe",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "image/Branch.excalidraw.md"
               }
             }
           },
@@ -202,7 +212,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Module3 Lesson2.md",
+                "file": "Module3 Lesson3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -219,7 +229,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Module3 Lesson2.md",
+                "file": "Module3 Lesson3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -242,7 +252,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Module3 Lesson2.md"
+                "file": "Module3 Lesson3.md"
               }
             }
           }
@@ -268,15 +278,19 @@
   },
   "active": "8e508712f68b34df",
   "lastOpenFiles": [
-    "Module2 Lesson1.md",
+    "Module3 Lesson1.md",
+    "Module3 Lesson3.md",
+    "image/Branch.excalidraw.md",
     "Module3 Lesson2.md",
+    "Unity.gitignore",
+    "Module3 Lesson4.md",
+    "Untitled Diagram.svg",
+    "Module2 Lesson1.md",
     "image/pr-retargeting-diagram2.jpeg",
     "image/pr-retargeting-diagram2.webp",
-    "Untitled Diagram.svg",
     "Bootcamp Notes.md",
     "Module2 Lesson7.md",
     "Module2 Lesson8.md",
-    "Module3 Lesson1.md",
     "Sample Kanban.md",
     "Scrum-workflow.png",
     "1280-spiral-model.png",
@@ -301,9 +315,6 @@
     "2023-04-22.md",
     "Module2Copy/Module2 Lesson5 1.md",
     "Module2Copy/Module2 Lesson4 1.md",
-    "image/Static_Modifiers.md",
-    "image/InterfacesDrawing.md",
-    "image/AbstractionDrawing.md",
     "Untitled.canvas",
     "Module2Copy",
     "Untitled 2.canvas",
@@ -315,7 +326,6 @@
     "Excalidraw/images",
     "Content",
     "NewFolder",
-    "Testfolder",
-    "Excalidraw/Scripts/Downloaded"
+    "Testfolder"
   ]
 }
