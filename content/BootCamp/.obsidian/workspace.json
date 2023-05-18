@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bootcamp Notes.md",
+                "file": "Module3 Lesson3.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bootcamp Notes.md",
+                "file": "Module3 Lesson3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bootcamp Notes.md",
+                "file": "Module3 Lesson3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bootcamp Notes.md"
+                "file": "Module3 Lesson3.md"
               }
             }
           }
@@ -188,6 +188,7 @@
   },
   "active": "8e508712f68b34df",
   "lastOpenFiles": [
+    "Bootcamp Notes.md",
     "Module3 Lesson3.md",
     "Module3 Lesson4.md",
     "image/Branch.excalidraw 1.md",
@@ -195,7 +196,6 @@
     "image/Branch.excalidraw.png",
     "image/Branch.excalidraw 1.png",
     "Module3 Lesson2.md",
-    "Bootcamp Notes.md",
     "Untitled Diagram.svg",
     "Module3 Lesson1.md",
     "Unity.gitignore",
