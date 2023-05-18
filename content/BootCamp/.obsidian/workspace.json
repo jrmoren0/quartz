@@ -11,26 +11,15 @@
             "id": "8e508712f68b34df",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "image/Branch.excalidraw 1.md"
-              }
-            }
-          },
-          {
-            "id": "0a4b1f4a3633f882",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "Bootcamp Notes.md",
+                "file": "Module3 Lesson3.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -133,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bootcamp Notes.md",
+                "file": "Module3 Lesson3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bootcamp Notes.md",
+                "file": "Module3 Lesson3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bootcamp Notes.md"
+                "file": "Module3 Lesson3.md"
               }
             }
           }
@@ -197,20 +186,22 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0a4b1f4a3633f882",
+  "active": "8e508712f68b34df",
   "lastOpenFiles": [
+    "Module3 Lesson4.md",
     "Module3 Lesson3.md",
     "image/Branch.excalidraw 1.md",
     "image/Branch.excalidraw.md",
+    "image/Branch.excalidraw.png",
+    "image/Branch.excalidraw 1.png",
+    "Module3 Lesson2.md",
+    "Bootcamp Notes.md",
     "Untitled Diagram.svg",
     "Module3 Lesson1.md",
-    "Module3 Lesson2.md",
     "Unity.gitignore",
-    "Module3 Lesson4.md",
     "Module2 Lesson1.md",
     "image/pr-retargeting-diagram2.jpeg",
     "image/pr-retargeting-diagram2.webp",
-    "Bootcamp Notes.md",
     "Module2 Lesson7.md",
     "Module2 Lesson8.md",
     "Sample Kanban.md",
@@ -219,8 +210,6 @@
     "image/WaterfallDiagram.png",
     "image/Product-Management-Explained.webp",
     "image/download.jpeg",
-    "Pasted image 20230504153203.png",
-    "Pasted Image 20230504163610_290.svg",
     "Excalidraw/Drawing 2023-05-04 19.00.08.excalidraw.md",
     "Module2 Lesson7 1.md",
     "Excalidraw/Unit.excalidraw.md",
@@ -235,7 +224,6 @@
     "Excalidraw/Drawing 2023-04-10 00.48.42.excalidraw.md",
     "Excalidraw/Array.excalidraw.md",
     "2023-04-22.md",
-    "Module2Copy/Module2 Lesson5 1.md",
     "Untitled.canvas",
     "Module2Copy",
     "Untitled 2.canvas",

@@ -14,7 +14,7 @@ title: "Module3 Lesson3"
 -   **Unresolvable merge conflicts**: files like scene files that are written in confusing languages (like YAML) that are supposed to be translations of Unity editor actions into code. Most likely, you cannot resolve using Git, and the only way to resolve merge conflicts is to open it in a text editor and resolve them manually while hoping you don't mess anything up because these files are confusing and not meant to be manipulated directly.
 -   **Large files**: Sometimes assets are large and take up a lot of storage space
 
-![Branch.excalidraw](Bootcamp/image/Branch.excalidraw.md)
+![](image/BootCamp/Branch.excalidraw.png)
 
 # Setting up a project
 
@@ -89,4 +89,4 @@ git merge <branch_name>
 
 git log --graph”
 ```
-
+![](BootCamp/image/Branch.excalidraw%201.png)
