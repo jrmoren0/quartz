@@ -17,7 +17,10 @@ title: "Notes"
 
 ## [ Lesson 7](Module2%20Lesson7.md)
 
-## [ Lesson8](Module2%20Lesson8.md)
+## [ Lesson 8](Module2%20Lesson8.md)
+
+
+# Module 3
 
 ## [Module3 Lesson1](Module3%20Lesson1.md)
 
