@@ -13,13 +13,16 @@ title: "Notes"
 
 ## [[Module2 Lesson5|Lesson 5]]
 
-## [Module2 Lesson6](Module2%20Lesson6.md)
+## [ Lesson 6](Module2%20Lesson6.md)
 
-## [Module2 Lesson7](Module2%20Lesson7.md)
+## [ Lesson 7](Module2%20Lesson7.md)
 
-## [Module2 Lesson8](Module2%20Lesson8.md)
+## [ Lesson8](Module2%20Lesson8.md)
 
 ## [Module3 Lesson1](Module3%20Lesson1.md)
 
 ## [Module3 Lesson2](Module3%20Lesson2.md)
+
+## [Module3 Lesson3](Module3%20Lesson3.md)
+
 

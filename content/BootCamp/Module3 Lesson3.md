@@ -43,8 +43,6 @@ Stage necessary  Unity files
 
 git add Assets
 
-git add Project Settings
-
 git add ProjectSettings
 
 git add Packages 
@@ -74,7 +72,7 @@ git checkout -b ＜new-branch-name＞
 
 push new branch to remote
 ```bash
- git push -u origin Newranch
+ git push -u origin ＜new-branch-name＞
 ```
 
 
